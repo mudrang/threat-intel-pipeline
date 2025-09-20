@@ -1,1 +1,8 @@
+# Ignore the folder containing datasets
 data/
+
+#Ignore the file containing secret API key
+.env
+
+#Ignore the folder for temprory uploads
+uploads/
